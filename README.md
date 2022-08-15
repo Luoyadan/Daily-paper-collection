@@ -9,6 +9,7 @@ Daily Notes of paper reading. Focused domains:
 
 
 ### To-do Conferences
+- [ ] ICML 2022
 - [ ] CVPR 2022
 - [ ] NeurIPS 2021
 
